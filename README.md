@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @louayfarah
-- 👀 I’m interested in Competitive Programming and OOP
 - 📫 How to reach me: e-mail: louayfarah5@gmail.com ----- Linkedin: https://www.linkedin.com/in/louay-farah-b61536216/
 
 <!---
