@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @louayfarah
-- ✨ I am a Backend Engineer at Jedsy
-- 📫 How to reach me: e-mail: louayfarah5@gmail.com ----- Linkedin: https://www.linkedin.com/in/louay-farah-b61536216/
+<a href="https://github.com/louayfarah">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/louayfarah/louayfarah/main/dark_mode.svg">
+    <img alt="Louay Farah's GitHub profile card: about, contact and GitHub statistics" src="https://raw.githubusercontent.com/louayfarah/louayfarah/main/light_mode.svg">
+  </picture>
+</a>
 
-**Note: Some projects are private due to confidentiality.**
-
-<!---
-louayfarah/louayfarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<sub>Card refreshed daily by GitHub Actions. Based on <a href="https://github.com/Andrew6rant/Andrew6rant">Andrew6rant's profile README</a>.</sub>
