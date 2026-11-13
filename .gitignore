@@ -1,0 +1,4 @@
+# per-repository counts, kept in the Actions cache only (see .github/workflows/build.yaml)
+cache/
+__pycache__/
+.DS_Store
